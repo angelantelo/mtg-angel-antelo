@@ -1,1 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+div {
+    background-color: aqua;
+    color: red;
+    border: 1px solid black;
+}
